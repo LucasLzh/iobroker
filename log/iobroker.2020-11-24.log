@@ -1,0 +1,68 @@
+2020-11-24 10:36:07.080  - [32minfo[39m: host.DYWM34 "system.adapter.siro.0" enabled
+2020-11-24 10:36:07.089  - [32minfo[39m: host.DYWM34 instance system.adapter.siro.0 started with pid 15220
+2020-11-24 10:36:07.702  - [32minfo[39m: siro.0 (15220) starting. Version 1.0.12 in C:/iobroker/node_modules/iobroker.siro, node: v14.15.1, js-controller: 3.1.6
+2020-11-24 10:36:07.708  - [32minfo[39m: siro.0 (15220) 准备进入main函数
+2020-11-24 10:36:07.709  - [32minfo[39m: siro.0 (15220) 密码的md5值：E10ADC3949BA59ABBE56E057F20F883E
+2020-11-24 10:36:07.709  - [32minfo[39m: siro.0 (15220) 进入login函数
+2020-11-24 10:36:07.713  - [32minfo[39m: siro.0 (15220) 进入sheduletoekn刷新判断
+2020-11-24 10:36:07.716  - [32minfo[39m: siro.0 (15220) Token refresh Shedule added!
+2020-11-24 10:36:08.599  - [32minfo[39m: siro.0 (15220) 进入了setconnected
+2020-11-24 10:36:08.599  - [32minfo[39m: siro.0 (15220) Change connection status: true
+2020-11-24 10:36:08.600  - [32minfo[39m: siro.0 (15220) heartbeatTimeout的值为：30000
+2020-11-24 10:36:08.600  - [32minfo[39m: siro.0 (15220) 进入了判断
+2020-11-24 10:36:08.601  - [32minfo[39m: siro.0 (15220) conntimeout的数值为：403
+2020-11-24 10:36:08.601  - [32minfo[39m: siro.0 (15220) Logged in with Access Token: 5acb1823-d7ff-46db-9c01-16876f12c7d8b500ec53-b11d-4f7d-a81a-c1f1eba63***
+2020-11-24 10:36:18.499  - [32minfo[39m: siro.0 (15220) 进入了setconnected
+2020-11-24 10:36:18.499  - [32minfo[39m: siro.0 (15220) heartbeatTimeout的值为：30000
+2020-11-24 10:36:18.500  - [32minfo[39m: siro.0 (15220) 进入了判断
+2020-11-24 10:36:18.500  - [32minfo[39m: siro.0 (15220) 进入了clearTimeout判断
+2020-11-24 10:36:18.501  - [32minfo[39m: siro.0 (15220) clcearTimeOut之前的数值：403
+2020-11-24 10:36:18.501  - [32minfo[39m: siro.0 (15220) 经过clcearTimeOut之后的数值：403
+2020-11-24 10:36:18.501  - [32minfo[39m: siro.0 (15220) conntimeout的数值为：490
+2020-11-24 10:36:18.502  - [32minfo[39m: siro.0 (15220) [object Object]
+2020-11-24 10:36:28.431  - [32minfo[39m: siro.0 (15220) 进入了setconnected
+2020-11-24 10:36:28.432  - [32minfo[39m: siro.0 (15220) heartbeatTimeout的值为：30000
+2020-11-24 10:36:28.432  - [32minfo[39m: siro.0 (15220) 进入了判断
+2020-11-24 10:36:28.432  - [32minfo[39m: siro.0 (15220) 进入了clearTimeout判断
+2020-11-24 10:36:28.432  - [32minfo[39m: siro.0 (15220) clcearTimeOut之前的数值：490
+2020-11-24 10:36:28.433  - [32minfo[39m: siro.0 (15220) 经过clcearTimeOut之后的数值：490
+2020-11-24 10:36:28.433  - [32minfo[39m: siro.0 (15220) conntimeout的数值为：652
+2020-11-24 10:36:28.433  - [32minfo[39m: siro.0 (15220) [object Object]
+2020-11-24 10:36:38.504  - [32minfo[39m: siro.0 (15220) 进入了setconnected
+2020-11-24 10:36:38.505  - [32minfo[39m: siro.0 (15220) heartbeatTimeout的值为：30000
+2020-11-24 10:36:38.505  - [32minfo[39m: siro.0 (15220) 进入了判断
+2020-11-24 10:36:38.505  - [32minfo[39m: siro.0 (15220) 进入了clearTimeout判断
+2020-11-24 10:36:38.506  - [32minfo[39m: siro.0 (15220) clcearTimeOut之前的数值：652
+2020-11-24 10:36:38.506  - [32minfo[39m: siro.0 (15220) 经过clcearTimeOut之后的数值：652
+2020-11-24 10:36:38.506  - [32minfo[39m: siro.0 (15220) conntimeout的数值为：808
+2020-11-24 10:36:38.507  - [32minfo[39m: siro.0 (15220) [object Object]
+2020-11-24 10:36:49.302  - [32minfo[39m: siro.0 (15220) 进入了setconnected
+2020-11-24 10:36:49.303  - [32minfo[39m: siro.0 (15220) heartbeatTimeout的值为：30000
+2020-11-24 10:36:49.303  - [32minfo[39m: siro.0 (15220) 进入了判断
+2020-11-24 10:36:49.303  - [32minfo[39m: siro.0 (15220) 进入了clearTimeout判断
+2020-11-24 10:36:49.303  - [32minfo[39m: siro.0 (15220) clcearTimeOut之前的数值：808
+2020-11-24 10:36:49.304  - [32minfo[39m: siro.0 (15220) 经过clcearTimeOut之后的数值：808
+2020-11-24 10:36:49.304  - [32minfo[39m: siro.0 (15220) conntimeout的数值为：934
+2020-11-24 10:36:49.304  - [32minfo[39m: siro.0 (15220) [object Object]
+2020-11-24 10:36:58.682  - [32minfo[39m: siro.0 (15220) 进入了setconnected
+2020-11-24 10:36:58.683  - [32minfo[39m: siro.0 (15220) heartbeatTimeout的值为：30000
+2020-11-24 10:36:58.683  - [32minfo[39m: siro.0 (15220) 进入了判断
+2020-11-24 10:36:58.683  - [32minfo[39m: siro.0 (15220) 进入了clearTimeout判断
+2020-11-24 10:36:58.683  - [32minfo[39m: siro.0 (15220) clcearTimeOut之前的数值：934
+2020-11-24 10:36:58.684  - [32minfo[39m: siro.0 (15220) 经过clcearTimeOut之后的数值：934
+2020-11-24 10:36:58.684  - [32minfo[39m: siro.0 (15220) conntimeout的数值为：1096
+2020-11-24 10:36:58.684  - [32minfo[39m: siro.0 (15220) [object Object]
+2020-11-24 10:37:01.228  - [32minfo[39m: host.DYWM34 "system.adapter.siro.0" disabled
+2020-11-24 10:37:01.229  - [32minfo[39m: host.DYWM34 stopInstance system.adapter.siro.0 (force=false, process=true)
+2020-11-24 10:37:01.229  - [32minfo[39m: host.DYWM34 stopInstance system.adapter.siro.0 send kill signal
+2020-11-24 10:37:01.236  - [32minfo[39m: siro.0 (15220) Got terminate signal TERMINATE_YOURSELF
+2020-11-24 10:37:01.737  - [32minfo[39m: siro.0 (15220) terminating
+2020-11-24 10:37:01.738  - [32minfo[39m: siro.0 (15220) Terminated (ADAPTER_REQUESTED_TERMINATION): Without reason
+2020-11-24 10:37:02.235  - [32minfo[39m: host.DYWM34 stopInstance system.adapter.siro.0 killing pid 15220
+2020-11-24 10:37:02.243  - [33mwarn[39m: host.DYWM34 instance system.adapter.siro.0 terminated due to SIGTERM
+2020-11-24 10:37:02.243  - [32minfo[39m: host.DYWM34 instance system.adapter.siro.0 terminated with code null ()
+2020-11-24 10:52:59.138  - [31merror[39m: info.0 (4164) Error: getaddrinfo ENOENT raw.githubusercontent.com
+2020-11-24 11:22:59.151  - [31merror[39m: info.0 (4164) Error: getaddrinfo ENOENT raw.githubusercontent.com
+2020-11-24 11:52:59.136  - [31merror[39m: info.0 (4164) Error: getaddrinfo ENOENT raw.githubusercontent.com
+2020-11-24 12:22:59.151  - [31merror[39m: info.0 (4164) Error: getaddrinfo ENOENT raw.githubusercontent.com
+2020-11-24 13:03:48.725  - [31merror[39m: info.0 (4164) Error: getaddrinfo ENOTFOUND raw.githubusercontent.com

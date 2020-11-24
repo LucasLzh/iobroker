@@ -1,0 +1,26 @@
+<service>
+	<id>iobroker.exe</id>
+	<name>ioBroker</name>
+	<description>ioBroker service.</description>
+	<executable>C:\software\NodeJS\node.exe</executable>
+	<logmode>rotate</logmode>
+	<argument>--harmony</argument>
+	<argument>C:\iobroker\node_modules\node-windows\lib\wrapper.js</argument>
+	<argument>--file</argument>
+	<argument>C:\iobroker\controller.js</argument>
+	<argument>--log</argument>
+	<argument>ioBroker wrapper</argument>
+	<argument>--grow</argument>
+	<argument>0.25</argument>
+	<argument>--wait</argument>
+	<argument>1</argument>
+	<argument>--maxrestarts</argument>
+	<argument>3</argument>
+	<argument>--abortonerror</argument>
+	<argument>n</argument>
+	<argument>--stopparentfirst</argument>
+	<argument>undefined</argument>
+	<stoptimeout>30sec</stoptimeout>
+	<env name="NODE_ENV" value="production"/>
+	<workingdirectory>C:\iobroker</workingdirectory>
+</service>

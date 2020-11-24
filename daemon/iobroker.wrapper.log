@@ -1,0 +1,10 @@
+2020-11-20 19:28:42 - Starting C:\software\NodeJS\node.exe  --harmony C:\iobroker\node_modules\node-windows\lib\wrapper.js --file C:\iobroker\controller.js --log "ioBroker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-11-20 19:28:42 - Started 9080
+2020-11-20 19:42:16 - Starting C:\software\NodeJS\node.exe  --harmony C:\iobroker\node_modules\node-windows\lib\wrapper.js --file C:\iobroker\controller.js --log "ioBroker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-11-20 19:42:16 - Started 6952
+2020-11-23 08:15:16 - Starting C:\software\NodeJS\node.exe  --harmony C:\iobroker\node_modules\node-windows\lib\wrapper.js --file C:\iobroker\controller.js --log "ioBroker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-11-23 08:15:17 - Started 7312
+2020-11-23 22:48:35 - Starting C:\software\NodeJS\node.exe  --harmony C:\iobroker\node_modules\node-windows\lib\wrapper.js --file C:\iobroker\controller.js --log "ioBroker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-11-23 22:48:35 - Started 6736
+2020-11-24 08:00:06 - Starting C:\software\NodeJS\node.exe  --harmony C:\iobroker\node_modules\node-windows\lib\wrapper.js --file C:\iobroker\controller.js --log "ioBroker wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-11-24 08:00:07 - Started 7128

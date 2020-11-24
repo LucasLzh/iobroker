@@ -1,0 +1,235 @@
+2020-11-20 11:20:12.431  - [32minfo[39m: host.DYWM34 iobroker.js-controller version 3.1.6 js-controller starting
+2020-11-20 11:20:12.432  - [32minfo[39m: host.DYWM34 Copyright (c) 2014-2020 bluefox, 2014 hobbyquaker
+2020-11-20 11:20:12.432  - [32minfo[39m: host.DYWM34 hostname: DYWM34, node: v14.15.1
+2020-11-20 11:20:12.438  - [32minfo[39m: host.DYWM34 ip addresses: fe80::4045:3cef:e74:61e 192.168.31.168
+2020-11-20 11:20:12.512  - [32minfo[39m: host.DYWM34 connected to Objects and States
+2020-11-20 11:20:12.704  - [32minfo[39m: host.DYWM34 3 instances found
+2020-11-20 11:20:12.707  - [32minfo[39m: host.DYWM34 starting 3 instances
+2020-11-20 11:20:12.745  - [32minfo[39m: host.DYWM34 instance system.adapter.admin.0 started with pid 18296
+2020-11-20 11:20:13.691  - [32minfo[39m: admin.0 (18296) starting. Version 4.1.10 in C:/iobroker/node_modules/iobroker.admin, node: v14.15.1, js-controller: 3.1.6
+2020-11-20 11:20:13.702  - [32minfo[39m: admin.0 (18296) requesting all states
+2020-11-20 11:20:13.703  - [32minfo[39m: admin.0 (18296) requesting all objects
+2020-11-20 11:20:13.718  - [32minfo[39m: admin.0 (18296) received all objects
+2020-11-20 11:20:13.722  - [33mwarn[39m: admin.0 (18296) Repository cannot be read
+2020-11-20 11:20:13.755  - [32minfo[39m: admin.0 (18296) http server listening on port 8081
+2020-11-20 11:20:13.755  - [32minfo[39m: admin.0 (18296) Use link "http://localhost:8081" to configure.
+2020-11-20 11:20:16.716  - [32minfo[39m: host.DYWM34 instance system.adapter.discovery.0 started with pid 5108
+2020-11-20 11:20:17.817  - [32minfo[39m: discovery.0 (5108) starting. Version 2.3.11 in C:/iobroker/node_modules/iobroker.discovery, node: v14.15.1, js-controller: 3.1.6
+2020-11-20 11:20:20.714  - [32minfo[39m: host.DYWM34 instance system.adapter.info.0 started with pid 4424
+2020-11-20 11:20:23.137  - [32minfo[39m: info.0 (4424) starting. Version 1.7.10 in C:/iobroker/node_modules/iobroker.info, node: v14.15.1, js-controller: 3.1.6
+2020-11-20 11:20:26.603  - [31merror[39m: info.0 (4424) Error: getaddrinfo ENOENT raw.githubusercontent.com
+2020-11-20 11:20:26.627  - [33mwarn[39m: info.0 (4424) Object info.0.sysinfo.network.interfaces.iface2.internal is invalid: obj.common.type has an invalid value (undefined) but has to be one of number, string, boolean, array, object, mixed, file, json
+2020-11-20 11:20:26.628  - [33mwarn[39m: info.0 (4424) This object will not be created in future versions. Please report this to the developer.
+2020-11-20 11:20:26.630  - [33mwarn[39m: info.0 (4424) Object info.0.sysinfo.network.interfaces.iface3.internal is invalid: obj.common.type has an invalid value (undefined) but has to be one of number, string, boolean, array, object, mixed, file, json
+2020-11-20 11:20:26.630  - [33mwarn[39m: info.0 (4424) This object will not be created in future versions. Please report this to the developer.
+2020-11-20 11:20:26.632  - [33mwarn[39m: info.0 (4424) Object info.0.sysinfo.network.interfaces.iface4.internal is invalid: obj.common.type has an invalid value (undefined) but has to be one of number, string, boolean, array, object, mixed, file, json
+2020-11-20 11:20:26.633  - [33mwarn[39m: info.0 (4424) This object will not be created in future versions. Please report this to the developer.
+2020-11-20 11:34:09.068  - [32minfo[39m: host.DYWM34 Update repository "default" under "http://download.iobroker.net/sources-dist.json"
+2020-11-20 11:34:16.463  - [32minfo[39m: host.DYWM34 Update repository "default" under "http://download.iobroker.net/sources-dist.json"
+2020-11-20 11:34:16.771  - [33mwarn[39m: host.DYWM34 warning: Following packages cannot be read: contactid
+2020-11-20 11:34:20.918  - [33mwarn[39m: host.DYWM34 warning: Following packages cannot be read: contactid
+2020-11-20 11:37:34.756  - [32minfo[39m: host.DYWM34 iobroker url "https://github.com/Bl4cksh4rk1990/ioBroker.siro.git" --debug
+2020-11-20 11:42:10.879  - [32minfo[39m: host.DYWM34 iobroker.js-controller version 3.1.6 js-controller starting
+2020-11-20 11:42:10.880  - [32minfo[39m: host.DYWM34 Copyright (c) 2014-2020 bluefox, 2014 hobbyquaker
+2020-11-20 11:42:10.881  - [32minfo[39m: host.DYWM34 hostname: DYWM34, node: v14.15.1
+2020-11-20 11:42:10.887  - [32minfo[39m: host.DYWM34 ip addresses: fe80::4045:3cef:e74:61e 192.168.31.168
+2020-11-20 11:42:10.921  - [32minfo[39m: host.DYWM34  Error inMem-objects listening on port 9001
+2020-11-20 11:42:10.926  - [32minfo[39m: host.DYWM34  Error inMem-states listening on port 9000
+2020-11-20 11:42:10.941  - [32minfo[39m: host.DYWM34 connected to Objects and States
+2020-11-20 11:42:11.109  - [32minfo[39m: host.DYWM34 3 instances found
+2020-11-20 11:42:11.112  - [32minfo[39m: host.DYWM34 starting 3 instances
+2020-11-20 11:42:11.146  - [32minfo[39m: host.DYWM34 instance system.adapter.admin.0 started with pid 16192
+2020-11-20 11:42:11.794  - [31merror[39m: admin.0 (16192) admin.0 invalid process id scenario 18296 vs. own ID 16192. Stopping
+2020-11-20 11:42:11.795  - [32minfo[39m: admin.0 (16192) Terminated (ADAPTER_REQUESTED_TERMINATION): Without reason
+2020-11-20 11:42:12.516  - [31merror[39m: host.DYWM34 instance system.adapter.admin.0 terminated by request of the instance itself and will not be restarted, before user restarts it.
+2020-11-20 11:42:12.517  - [32minfo[39m: host.DYWM34 Do not restart adapter system.adapter.admin.0 because desired by instance
+2020-11-20 11:42:15.124  - [32minfo[39m: host.DYWM34 instance system.adapter.discovery.0 started with pid 6040
+2020-11-20 11:42:15.557  - [31merror[39m: discovery.0 (6040) discovery.0 invalid process id scenario 5108 vs. own ID 6040. Stopping
+2020-11-20 11:42:15.557  - [32minfo[39m: discovery.0 (6040) Terminated (ADAPTER_REQUESTED_TERMINATION): Without reason
+2020-11-20 11:42:16.272  - [31merror[39m: host.DYWM34 instance system.adapter.discovery.0 terminated by request of the instance itself and will not be restarted, before user restarts it.
+2020-11-20 11:42:16.273  - [32minfo[39m: host.DYWM34 Do not restart adapter system.adapter.discovery.0 because desired by instance
+2020-11-20 11:42:19.118  - [32minfo[39m: host.DYWM34 instance system.adapter.info.0 started with pid 19768
+2020-11-20 11:42:20.896  - [31merror[39m: info.0 (19768) info.0 invalid process id scenario 4424 vs. own ID 19768. Stopping
+2020-11-20 11:42:20.897  - [32minfo[39m: info.0 (19768) Terminated (ADAPTER_REQUESTED_TERMINATION): Without reason
+2020-11-20 11:42:21.609  - [31merror[39m: host.DYWM34 instance system.adapter.info.0 terminated by request of the instance itself and will not be restarted, before user restarts it.
+2020-11-20 11:42:21.609  - [32minfo[39m: host.DYWM34 Do not restart adapter system.adapter.info.0 because desired by instance
+2020-11-20 11:42:44.780  - [32minfo[39m: host.DYWM34 iobroker url "https://github.com/Bl4cksh4rk1990/ioBroker.siro" --debug
+2020-11-20 11:42:47.677  - [32minfo[39m: host.DYWM34 iobroker install https://github.com/Bl4cksh4rk1990/ioBroker.siro/tarball/477a77abf9f4d8fff140c6a9f9f65bf0bdeff1b0
+2020-11-20 11:42:48.738  - [32minfo[39m: host.DYWM34 iobroker NPM version: 6.14.8
+2020-11-20 11:42:48.739  - [32minfo[39m: host.DYWM34 iobroker npm install https://github.com/Bl4cksh4rk1990/ioBroker.siro/tarball/477a77abf9f4d8fff140c6a9f9f65bf0bdeff1b0 --loglevel error (System call)
+2020-11-20 11:43:00.459  - [32minfo[39m: host.DYWM34 iobroker > diskusage@1.1.3 install C:\iobroker\node_modules\diskusage> node-gyp rebuild
+2020-11-20 11:43:00.483  - [32minfo[39m: host.DYWM34 iobroker C:\iobroker\node_modules\diskusage>if not defined npm_config_node_gyp (node "C:\software\NodeJS\node_modules\npm\node_modules\npm-lifecycle\node-gyp-bin\\..\..\node_modules\node-gyp\bin\node-gyp.js" rebuild )  else 
+2020-11-20 11:43:00.484  - [32minfo[39m: host.DYWM34 iobroker (node "C:\software\NodeJS\node_modules\npm\node_modules\node-gyp\bin\node-gyp.js" rebuild ) 
+2020-11-20 11:43:05.866  - [32minfo[39m: host.DYWM34 iobroker �ڴ˽��������һ������һ����Ŀ����Ҫ���ò������ɣ������ӡ�/m�����ء�
+2020-11-20 11:43:07.399  - [32minfo[39m: host.DYWM34 iobroker   main.cpp  diskusage_win.cpp
+2020-11-20 11:43:07.399  - [32minfo[39m: host.DYWM34 iobroker   win_delay_load_hook.cc
+2020-11-20 11:43:09.292  - [32minfo[39m: host.DYWM34 iobroker     ���ڴ����� C:\iobroker\node_modules\diskusage\build\Release\diskusage.lib �Ͷ��� C:\iobroker\node_modules\diskusage\build\Release\diskusage.exp
+2020-11-20 11:43:09.806  - [32minfo[39m: host.DYWM34 iobroker   diskusage.vcxproj -> C:\iobroker\node_modules\diskusage\build\Release\\diskusage.node
+2020-11-20 11:43:10.087  - [32minfo[39m: host.DYWM34 iobroker > unix-dgram@2.0.3 install C:\iobroker\node_modules\unix-dgram> node-gyp rebuild
+2020-11-20 11:43:10.103  - [32minfo[39m: host.DYWM34 iobroker C:\iobroker\node_modules\unix-dgram>if not defined npm_config_node_gyp (node "C:\software\NodeJS\node_modules\npm\node_modules\npm-lifecycle\node-gyp-bin\\..\..\node_modules\node-gyp\bin\node-gyp.js" rebuild )  else (node "C:\software\NodeJS\node_modules\npm\node_modules\node-gyp\bin\node-gyp.js" rebuild ) 
+2020-11-20 11:43:13.167  - [32minfo[39m: host.DYWM34 iobroker �ڴ˽��������һ������һ����Ŀ����Ҫ���ò������ɣ������ӡ�/m�����ء�
+2020-11-20 11:43:14.474  - [32minfo[39m: host.DYWM34 iobroker   unix_dgram.cc
+2020-11-20 11:43:14.475  - [32minfo[39m: host.DYWM34 iobroker   win_delay_load_hook.cc
+2020-11-20 11:43:15.427  - [32minfo[39m: host.DYWM34 iobroker c:\iobroker\node_modules\unix-dgram\src\unix_dgram.cc(9): fatal error C1083: �޷��򿪰����ļ�: ��unistd.h��: No such file or directory [C:\iobroker\node_modules\unix-dgram\build\unix_dgram.vcxproj]
+2020-11-20 11:43:15.627  - [32minfo[39m: host.DYWM34 iobroker gyp
+2020-11-20 11:43:15.627  - [32minfo[39m: host.DYWM34 iobroker  ERR! build error 
+2020-11-20 11:43:15.628  - [32minfo[39m: host.DYWM34 iobroker gyp ERR! stack Error: `C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\MSBuild\15.0\Bin\MSBuild.exe` failed with exit code: 1gyp ERR! stack     at ChildProcess.onExit (C:\software\NodeJS\node_modules\npm\node_modules\node-gyp\lib\build.js:194:23)gyp ERR! stack     at ChildProcess.emit (events.js:315:20)gyp ERR! stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:277:12)gyp
+2020-11-20 11:43:15.628  - [32minfo[39m: host.DYWM34 iobroker  ERR! System Windows_NT 10.0.18363gyp ERR! command "C:\\software\\NodeJS\\node.exe" "C:\\software\\NodeJS\\node_modules\\npm\\node_modules\\node-gyp\\bin\\node-gyp.js" "rebuild"gyp ERR! cwd C:\iobroker\node_modules\unix-dgramgyp ERR! node -v v14.15.1gyp ERR! node-gyp -v v5.1.0gyp ERR! not ok 
+2020-11-20 11:43:15.845  - [32minfo[39m: host.DYWM34 iobroker > ursa-optional@0.9.10 install C:\iobroker\node_modules\ursa-optional> node rebuild.js
+2020-11-20 11:43:22.179  - [32minfo[39m: host.DYWM34 iobroker ursaNative bindings compilation fail. This is not an issue. Modules that depend on it will use fallbacks.
+2020-11-20 11:43:22.404  - [32minfo[39m: host.DYWM34 iobroker > @serialport/bindings@8.0.8 install C:\iobroker\node_modules\@serialport\bindings> prebuild-install --tag-prefix @serialport/bindings@ || node-gyp rebuild
+2020-11-20 11:43:23.893  - [32minfo[39m: host.DYWM34 iobroker C:\iobroker\node_modules\@serialport\bindings>if not defined npm_config_node_gyp (node "C:\software\NodeJS\node_modules\npm\node_modules\npm-lifecycle\node-gyp-bin\\..\..\node_modules\node-gyp\bin\node-gyp.js" rebuild )  else (node "C:\software\NodeJS\node_modules\npm\node_modules\node-gyp\bin\node-gyp.js" rebuild ) 
+2020-11-20 11:43:26.555  - [32minfo[39m: host.DYWM34 iobroker �ڴ˽��������һ������һ����Ŀ����Ҫ���ò������ɣ������ӡ�/m�����ء�
+2020-11-20 11:43:27.789  - [32minfo[39m: host.DYWM34 iobroker   serialport.cpp
+2020-11-20 11:43:27.790  - [32minfo[39m: host.DYWM34 iobroker   serialport_win.cpp  win_delay_load_hook.cc
+2020-11-20 11:43:29.997  - [32minfo[39m: host.DYWM34 iobroker     ���ڴ����� C:\iobroker\node_modules\@serialport\bindings\build\Release\bindings.lib �Ͷ��� C:\iobroker\node_modules\@serialport\bindings\build\Release\bindings.exp
+2020-11-20 11:43:30.410  - [32minfo[39m: host.DYWM34 iobroker   bindings.vcxproj -> C:\iobroker\node_modules\@serialport\bindings\build\Release\\bindings.node
+2020-11-20 11:43:30.699  - [32minfo[39m: host.DYWM34 iobroker > acme-v2@1.8.6 postinstall C:\iobroker\node_modules\acme-v2> node scripts/postinstall
+2020-11-20 11:43:31.072  - [32minfo[39m: host.DYWM34 iobroker 
+2020-11-20 11:43:31.072  - [32minfo[39m: host.DYWM34 iobroker [31mGreenlock and ACME.js v3 are on the way![0mWatch for updates at https://indiegogo.com/at/greenlock
+2020-11-20 11:43:32.484  - [32minfo[39m: host.DYWM34 iobroker > serialport@8.0.8 postinstall C:\iobroker\node_modules\serialport> node thank-you.js
+2020-11-20 11:43:32.547  - [32minfo[39m: host.DYWM34 iobroker [96m[1mThank you for using serialport![96m[1m[0m[96mIf you rely on this package, please consider supporting our open collective:[22m[39m> [94mhttps://opencollective.com/serialport/donate[0m
+2020-11-20 11:43:33.005  - [32minfo[39m: host.DYWM34 iobroker + iobroker.siro@1.0.12added 101 packages from 75 contributors, removed 63 packages and audited 543 packages in 42.606s
+2020-11-20 11:43:33.144  - [32minfo[39m: host.DYWM34 iobroker 21 packages are looking for funding  run `npm fund` for details
+2020-11-20 11:43:33.145  - [32minfo[39m: host.DYWM34 iobroker found 3 vulnerabilities (1 low, 2 high)  run `npm audit fix` to fix them, or `npm audit` for details
+2020-11-20 11:43:33.390  - [32minfo[39m: host.DYWM34 iobroker upload [3] siro.admin C:/iobroker/node_modules/iobroker.siro/admin/words.js words.js application/javascript
+2020-11-20 11:43:33.461  - [32minfo[39m: host.DYWM34 iobroker upload [2] siro.admin C:/iobroker/node_modules/iobroker.siro/admin/index_m.html index_m.html text/html
+2020-11-20 11:43:33.519  - [32minfo[39m: host.DYWM34 iobroker upload [1] siro.admin C:/iobroker/node_modules/iobroker.siro/admin/index.html index.html text/html
+2020-11-20 11:43:33.576  - [32minfo[39m: host.DYWM34 iobroker upload [0] siro.admin C:/iobroker/node_modules/iobroker.siro/admin/Connector.png Connector.png image/png
+2020-11-20 11:43:34.854  - [32minfo[39m: host.DYWM34 iobroker exit 0
+2020-11-20 11:43:34.933  - [32minfo[39m: host.DYWM34 Update repository "default" under "http://download.iobroker.net/sources-dist.json"
+2020-11-20 11:43:42.198  - [32minfo[39m: host.DYWM34 iobroker add siro  --host DYWM34
+2020-11-20 11:43:43.361  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 create instance siro
+2020-11-20 11:43:43.366  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object siro.0.info.connection created
+2020-11-20 11:43:43.394  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object siro.0.info created
+2020-11-20 11:43:43.421  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object system.adapter.siro.0.sigKill created
+2020-11-20 11:43:43.450  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object system.adapter.siro.0.eventLoopLag created
+2020-11-20 11:43:43.480  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object system.adapter.siro.0.outputCount created
+2020-11-20 11:43:43.509  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object system.adapter.siro.0.inputCount created
+2020-11-20 11:43:43.535  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object system.adapter.siro.0.uptime created
+2020-11-20 11:43:43.563  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object system.adapter.siro.0.memRss created
+2020-11-20 11:43:43.591  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object system.adapter.siro.0.memHeapTotal created
+2020-11-20 11:43:43.619  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object system.adapter.siro.0.memHeapUsed created
+2020-11-20 11:43:43.644  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object system.adapter.siro.0.cputime created
+2020-11-20 11:43:43.671  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object system.adapter.siro.0.cpu created
+2020-11-20 11:43:43.698  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object system.adapter.siro.0.compactMode created
+2020-11-20 11:43:43.725  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object system.adapter.siro.0.connected created
+2020-11-20 11:43:43.752  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object system.adapter.siro.0.alive created
+2020-11-20 11:43:43.779  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 Set default value of siro.0.info.connection: false
+2020-11-20 11:43:43.811  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object system.adapter.siro.0 created
+2020-11-20 11:43:45.017  - [32minfo[39m: host.DYWM34 iobroker exit 0
+2020-11-20 11:43:46.820  - [32minfo[39m: host.DYWM34 instance system.adapter.siro.0 started with pid 17660
+2020-11-20 11:43:47.505  - [32minfo[39m: siro.0 (17660) starting. Version 1.0.12 in C:/iobroker/node_modules/iobroker.siro, node: v14.15.1, js-controller: 3.1.6
+2020-11-20 11:43:54.068  - [32minfo[39m: host.DYWM34 "system.adapter.siro.0" disabled
+2020-11-20 11:43:54.068  - [32minfo[39m: host.DYWM34 stopInstance system.adapter.siro.0 (force=false, process=true)
+2020-11-20 11:43:54.069  - [32minfo[39m: host.DYWM34 stopInstance system.adapter.siro.0 send kill signal
+2020-11-20 11:43:54.073  - [32minfo[39m: siro.0 (17660) Got terminate signal TERMINATE_YOURSELF
+2020-11-20 11:43:54.574  - [32minfo[39m: siro.0 (17660) terminating
+2020-11-20 11:43:54.575  - [32minfo[39m: siro.0 (17660) Terminated (ADAPTER_REQUESTED_TERMINATION): Without reason
+2020-11-20 11:43:55.074  - [32minfo[39m: host.DYWM34 stopInstance system.adapter.siro.0 killing pid 17660
+2020-11-20 11:43:55.085  - [33mwarn[39m: host.DYWM34 instance system.adapter.siro.0 terminated due to SIGTERM
+2020-11-20 11:43:55.085  - [32minfo[39m: host.DYWM34 instance system.adapter.siro.0 terminated with code null ()
+2020-11-20 11:50:23.155  - [31merror[39m: info.0 (4424) Error: getaddrinfo ENOENT raw.githubusercontent.com
+2020-11-20 12:20:23.168  - [31merror[39m: info.0 (4424) Error: getaddrinfo ENOENT raw.githubusercontent.com
+2020-11-20 13:01:54.977  - [31merror[39m: info.0 (4424) Error: getaddrinfo ENOENT raw.githubusercontent.com
+2020-11-20 13:31:54.988  - [31merror[39m: info.0 (4424) Error: getaddrinfo ENOENT raw.githubusercontent.com
+2020-11-20 13:57:27.557  - [32minfo[39m: host.DYWM34 iobroker Info: Can not get current GitHub commit, we remember master branch only: Error: read ECONNRESET
+2020-11-20 13:57:27.558  - [32minfo[39m: host.DYWM34 iobroker install https://github.com/Bl4cksh4rk1990/ioBroker.siro/tarball/master
+2020-11-20 13:57:28.661  - [32minfo[39m: host.DYWM34 iobroker NPM version: 6.14.8
+2020-11-20 13:57:28.662  - [32minfo[39m: host.DYWM34 iobroker npm install https://github.com/Bl4cksh4rk1990/ioBroker.siro/tarball/master --loglevel error (System call)
+2020-11-20 13:57:30.641  - [32minfo[39m: host.DYWM34 iobroker npm
+2020-11-20 13:57:30.641  - [32minfo[39m: host.DYWM34 iobroker  ERR! code ENOTFOUNDnpm ERR! errno ENOTFOUND
+2020-11-20 13:57:30.645  - [32minfo[39m: host.DYWM34 iobroker npm 
+2020-11-20 13:57:30.645  - [32minfo[39m: host.DYWM34 iobroker ERR! network request to https://github.com/Bl4cksh4rk1990/ioBroker.siro/tarball/master failed, reason: getaddrinfo ENOTFOUND github.comnpm ERR! network This is a problem related to network connectivity.npm ERR! network In most cases you are behind a proxy or have bad network settings.npm ERR! network npm ERR! network If you are behind a proxy, please make sure that thenpm ERR! network 'proxy' config is set properly.  See: 'npm help config'
+2020-11-20 13:57:30.649  - [32minfo[39m: host.DYWM34 iobroker 
+2020-11-20 13:57:30.650  - [32minfo[39m: host.DYWM34 iobroker npm ERR! A complete log of this run can be found in:npm ERR!     C:\Users\admin\AppData\Roaming\npm-cache\_logs\2020-11-20T05_57_30_645Z-debug.log
+2020-11-20 13:57:30.888  - [32minfo[39m: host.DYWM34 iobroker upload [3] siro.admin C:/iobroker/node_modules/iobroker.siro/admin/words.js words.js application/javascript
+2020-11-20 13:57:30.954  - [32minfo[39m: host.DYWM34 iobroker upload [2] siro.admin C:/iobroker/node_modules/iobroker.siro/admin/index_m.html index_m.html text/html
+2020-11-20 13:57:31.009  - [32minfo[39m: host.DYWM34 iobroker upload [1] siro.admin C:/iobroker/node_modules/iobroker.siro/admin/index.html index.html text/html
+2020-11-20 13:57:31.069  - [32minfo[39m: host.DYWM34 iobroker upload [0] siro.admin C:/iobroker/node_modules/iobroker.siro/admin/Connector.png Connector.png image/png
+2020-11-20 13:57:31.138  - [32minfo[39m: host.DYWM34 iobroker Update "system.adapter.siro.0"
+2020-11-20 13:57:32.352  - [32minfo[39m: host.DYWM34 iobroker exit 0
+2020-11-20 14:01:54.987  - [31merror[39m: info.0 (4424) Error: getaddrinfo ENOENT raw.githubusercontent.com
+2020-11-20 14:31:54.990  - [31merror[39m: info.0 (4424) Error: getaddrinfo ENOENT raw.githubusercontent.com
+2020-11-20 15:01:54.981  - [31merror[39m: info.0 (4424) Error: getaddrinfo ENOENT raw.githubusercontent.com
+2020-11-20 15:31:54.988  - [31merror[39m: info.0 (4424) Error: getaddrinfo ENOENT raw.githubusercontent.com
+2020-11-20 16:01:54.977  - [31merror[39m: info.0 (4424) Error: getaddrinfo ENOENT raw.githubusercontent.com
+2020-11-20 16:31:54.976  - [31merror[39m: info.0 (4424) Error: getaddrinfo ENOENT raw.githubusercontent.com
+2020-11-20 17:01:54.964  - [31merror[39m: info.0 (4424) Error: getaddrinfo ENOENT raw.githubusercontent.com
+2020-11-20 20:06:12.399  - [32minfo[39m: host.DYWM34 iobroker.js-controller version 3.1.6 js-controller starting
+2020-11-20 20:06:12.401  - [32minfo[39m: host.DYWM34 Copyright (c) 2014-2020 bluefox, 2014 hobbyquaker
+2020-11-20 20:06:12.401  - [32minfo[39m: host.DYWM34 hostname: DYWM34, node: v14.15.1
+2020-11-20 20:06:12.407  - [32minfo[39m: host.DYWM34 ip addresses: fe80::4045:3cef:e74:61e 192.168.50.55
+2020-11-20 20:06:12.471  - [32minfo[39m: host.DYWM34 connected to Objects and States
+2020-11-20 20:06:12.765  - [32minfo[39m: host.DYWM34 3 instances found
+2020-11-20 20:06:12.768  - [32minfo[39m: host.DYWM34 starting 3 instances
+2020-11-20 20:06:12.804  - [32minfo[39m: host.DYWM34 instance system.adapter.admin.0 started with pid 7684
+2020-11-20 20:06:13.693  - [32minfo[39m: admin.0 (7684) starting. Version 4.1.10 in C:/iobroker/node_modules/iobroker.admin, node: v14.15.1, js-controller: 3.1.6
+2020-11-20 20:06:13.702  - [32minfo[39m: admin.0 (7684) requesting all states
+2020-11-20 20:06:13.702  - [32minfo[39m: admin.0 (7684) requesting all objects
+2020-11-20 20:06:13.764  - [32minfo[39m: admin.0 (7684) received all objects
+2020-11-20 20:06:13.787  - [32minfo[39m: admin.0 (7684) http server listening on port 8081
+2020-11-20 20:06:13.787  - [32minfo[39m: admin.0 (7684) Use link "http://localhost:8081" to configure.
+2020-11-20 20:06:16.773  - [32minfo[39m: host.DYWM34 instance system.adapter.discovery.0 started with pid 7288
+2020-11-20 20:06:17.358  - [32minfo[39m: discovery.0 (7288) starting. Version 2.3.11 in C:/iobroker/node_modules/iobroker.discovery, node: v14.15.1, js-controller: 3.1.6
+2020-11-20 20:06:20.788  - [32minfo[39m: host.DYWM34 instance system.adapter.info.0 started with pid 4388
+2020-11-20 20:06:22.527  - [32minfo[39m: info.0 (4388) starting. Version 1.7.10 in C:/iobroker/node_modules/iobroker.info, node: v14.15.1, js-controller: 3.1.6
+2020-11-20 20:06:24.045  - [31merror[39m: info.0 (4388) Error: getaddrinfo ENOENT raw.githubusercontent.com
+2020-11-20 20:06:34.545  - [33mwarn[39m: readFile will not read this file (Connector.png) in future versions: siro.admin is not an object of type "meta"
+2020-11-20 20:06:40.112  - [32minfo[39m: host.DYWM34 iobroker add siro  --host DYWM34
+2020-11-20 20:06:41.278  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 install adapter siro
+2020-11-20 20:06:41.286  - [32minfo[39m: host.DYWM34 iobroker upload [3] siro.admin C:/iobroker/node_modules/iobroker.siro/admin/words.js words.js application/javascript
+2020-11-20 20:06:41.351  - [32minfo[39m: host.DYWM34 iobroker upload [2] siro.admin C:/iobroker/node_modules/iobroker.siro/admin/index_m.html index_m.html text/html
+2020-11-20 20:06:41.410  - [32minfo[39m: host.DYWM34 iobroker upload [1] siro.admin C:/iobroker/node_modules/iobroker.siro/admin/index.html index.html text/html
+2020-11-20 20:06:41.465  - [32minfo[39m: host.DYWM34 iobroker upload [0] siro.admin C:/iobroker/node_modules/iobroker.siro/admin/Connector.png Connector.png image/png
+2020-11-20 20:06:41.530  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object system.adapter.siro created/updated
+2020-11-20 20:06:41.546  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 create instance siro
+2020-11-20 20:06:41.549  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object siro.0.info.connection created
+2020-11-20 20:06:41.578  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object siro.0.info created
+2020-11-20 20:06:41.605  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object system.adapter.siro.0.sigKill created
+2020-11-20 20:06:41.634  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object system.adapter.siro.0.eventLoopLag created
+2020-11-20 20:06:41.660  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object system.adapter.siro.0.outputCount created
+2020-11-20 20:06:41.688  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object system.adapter.siro.0.inputCount created
+2020-11-20 20:06:41.714  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object system.adapter.siro.0.uptime created
+2020-11-20 20:06:41.742  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object system.adapter.siro.0.memRss created
+2020-11-20 20:06:41.768  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object system.adapter.siro.0.memHeapTotal created
+2020-11-20 20:06:41.797  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object system.adapter.siro.0.memHeapUsed created
+2020-11-20 20:06:41.825  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object system.adapter.siro.0.cputime created
+2020-11-20 20:06:41.854  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object system.adapter.siro.0.cpu created
+2020-11-20 20:06:41.883  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object system.adapter.siro.0.compactMode created
+2020-11-20 20:06:41.911  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object system.adapter.siro.0.connected created
+2020-11-20 20:06:41.939  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object system.adapter.siro.0.alive created
+2020-11-20 20:06:41.966  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 Set default value of siro.0.info.connection: false
+2020-11-20 20:06:41.997  - [32minfo[39m: host.DYWM34 iobroker host.DYWM34 object system.adapter.siro.0 created
+2020-11-20 20:06:43.216  - [32minfo[39m: host.DYWM34 iobroker exit 0
+2020-11-20 20:06:45.002  - [32minfo[39m: host.DYWM34 instance system.adapter.siro.0 started with pid 14840
+2020-11-20 20:06:45.570  - [32minfo[39m: siro.0 (14840) starting. Version 1.0.12 in C:/iobroker/node_modules/iobroker.siro, node: v14.15.1, js-controller: 3.1.6
+2020-11-20 20:06:50.223  - [32minfo[39m: host.DYWM34 stopInstance system.adapter.siro.0 (force=false, process=true)
+2020-11-20 20:06:50.224  - [32minfo[39m: host.DYWM34 stopInstance system.adapter.siro.0 send kill signal
+2020-11-20 20:06:50.227  - [32minfo[39m: siro.0 (14840) Got terminate signal TERMINATE_YOURSELF
+2020-11-20 20:06:50.729  - [32minfo[39m: siro.0 (14840) terminating
+2020-11-20 20:06:50.730  - [32minfo[39m: siro.0 (14840) Terminated (ADAPTER_REQUESTED_TERMINATION): Without reason
+2020-11-20 20:06:51.226  - [32minfo[39m: host.DYWM34 stopInstance system.adapter.siro.0 killing pid 14840
+2020-11-20 20:06:51.253  - [33mwarn[39m: host.DYWM34 instance system.adapter.siro.0 terminated due to SIGTERM
+2020-11-20 20:06:51.253  - [32minfo[39m: host.DYWM34 instance system.adapter.siro.0 terminated with code null ()
+2020-11-20 20:06:53.238  - [32minfo[39m: host.DYWM34 instance system.adapter.siro.0 started with pid 7408
+2020-11-20 20:06:53.804  - [32minfo[39m: siro.0 (7408) starting. Version 1.0.12 in C:/iobroker/node_modules/iobroker.siro, node: v14.15.1, js-controller: 3.1.6
+2020-11-20 20:06:53.817  - [32minfo[39m: siro.0 (7408) Token refresh Shedule added!
+2020-11-20 20:06:59.768  - [32minfo[39m: siro.0 (7408) Change connection status: true
+2020-11-20 20:06:59.770  - [32minfo[39m: siro.0 (7408) Logged in with Access Token: 5acb1823-d7ff-46db-9c01-16876f12c7d80df7b15a-3498-44ae-866f-5982551f1***
+2020-11-20 20:07:23.851  - [32minfo[39m: siro.0 (7408) Read wirelessMode: 1
+2020-11-20 20:07:24.579  - [32minfo[39m: siro.0 (7408) Control OK
+2020-11-20 20:07:25.592  - [32minfo[39m: siro.0 (7408) Read wirelessMode: 1
+2020-11-20 20:07:26.627  - [32minfo[39m: siro.0 (7408) Control OK
+2020-11-20 20:07:40.559  - [32minfo[39m: host.DYWM34 "system.adapter.siro.0" disabled
+2020-11-20 20:07:40.573  - [32minfo[39m: siro.0 (7408) Got terminate signal TERMINATE_YOURSELF
+2020-11-20 20:07:40.559  - [32minfo[39m: host.DYWM34 stopInstance system.adapter.siro.0 (force=false, process=true)
+2020-11-20 20:07:40.560  - [32minfo[39m: host.DYWM34 stopInstance system.adapter.siro.0 send kill signal
+2020-11-20 20:07:41.076  - [32minfo[39m: siro.0 (7408) terminating
+2020-11-20 20:07:41.077  - [32minfo[39m: siro.0 (7408) Terminated (ADAPTER_REQUESTED_TERMINATION): Without reason
+2020-11-20 20:07:41.574  - [32minfo[39m: host.DYWM34 stopInstance system.adapter.siro.0 killing pid 7408
+2020-11-20 20:07:41.598  - [33mwarn[39m: host.DYWM34 instance system.adapter.siro.0 terminated due to SIGTERM
+2020-11-20 20:07:41.599  - [32minfo[39m: host.DYWM34 instance system.adapter.siro.0 terminated with code null ()
+2020-11-20 20:36:22.570  - [31merror[39m: info.0 (4388) Error: getaddrinfo ENOENT raw.githubusercontent.com
+2020-11-20 21:06:22.564  - [31merror[39m: info.0 (4388) Error: getaddrinfo ENOENT raw.githubusercontent.com
+2020-11-20 21:36:22.549  - [31merror[39m: info.0 (4388) Error: getaddrinfo ENOENT raw.githubusercontent.com

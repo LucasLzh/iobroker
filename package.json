@@ -1,0 +1,22 @@
+{
+  "name": "iobroker.inst",
+  "version": "2.0.3",
+  "private": true,
+  "description": "Automation platform in node.js",
+  "scripts": {
+    "install": "node lib/checkVersions.js",
+    "postinstall": "node lib/install.js",
+    "test": "node node_modules/mocha/bin/mocha --exit"
+  },
+  "dependencies": {
+    "colors": "^1.3.3",
+    "fs-extra": "^7.0.1",
+    "iobroker.admin": "stable",
+    "iobroker.discovery": "stable",
+    "iobroker.info": "stable",
+    "iobroker.js-controller": "stable",
+    "iobroker.siro": "https://github.com/Bl4cksh4rk1990/ioBroker.siro/tarball/477a77abf9f4d8fff140c6a9f9f65bf0bdeff1b0",
+    "semver": "^5.6.0",
+    "yargs": "^7.0.2"
+  }
+}

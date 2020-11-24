@@ -1,0 +1,29 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 7
+    },
+    "auditLog": "C:\\iobroker\\log\\iobroker-audit.json",
+    "files": [
+        {
+            "date": 1605842412428,
+            "name": "C:\\iobroker\\log\\iobroker.2020-11-20.log",
+            "hash": "1d14330c62bfd2f807cc710429deba67"
+        },
+        {
+            "date": 1606007507080,
+            "name": "C:\\iobroker\\log\\iobroker.2020-11-22.log",
+            "hash": "17ed6e9f964846729d558f27e927b89d"
+        },
+        {
+            "date": 1606092533967,
+            "name": "C:\\iobroker\\log\\iobroker.2020-11-23.log",
+            "hash": "a6f21adb3227375f3f1df0ab43cfa514"
+        },
+        {
+            "date": 1606147205540,
+            "name": "C:\\iobroker\\log\\iobroker.2020-11-24.log",
+            "hash": "d05b903884a07ccbfdf90db7bad71cfc"
+        }
+    ]
+}
